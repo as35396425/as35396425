@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Asia University.
 - 🌱 I’m rhythm gamer.
-- 👯 I’m currently doing Unity&K4a .
+- 👯 I’m currently doing Kinect for Unity .
 
 <table>
   <tbody>
