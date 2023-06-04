@@ -18,6 +18,10 @@
 </table>
 <img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=as35396425&style=flat-square&&label=Profile+Views&color=50A1FF">
 
+
+<br>
+<div align="center"> <img src="https://metrics.lecoq.io/as35396425?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 ---
 
 ### Github Analytics
