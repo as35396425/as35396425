@@ -1,16 +1,34 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D9DEF7&multiline=true&width=435&lines=%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D)](https://git.io/typing-svg)
 
 
+<table  style="border-color: transparent;"><tr ><td >
+  <div>
+- 🔭 I’m currently working on Asia University.<br>
+- 🌱 I’m rhythm gamer..<br>
+- 👯 I’m currently doing Kinect for Unity ..<br>
+</div>
+    </td>
 
+  <td >
+    <div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=50&size=24&pause=1000&color=F73B3B&center=true&width=435&lines=%E5%97%9A%E5%91%BC+%E8%8F%AF%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E9%AE%AE%E3%82%84%E3%81%8B%E3%81%AB+%E3%81%95%E3%81%82" alt="Typing SVG" /></a>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=50&size=24&pause=1000&color=F78322&center=true&width=435&lines=%E5%97%9A%E5%91%BC+%E9%B3%A5%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%84%AA%E9%9B%85%E3%81%AB" alt="Typing SVG" /></a>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=50&size=24&pause=1000&color=BF16C7&center=true&width=435&lines=+%E5%97%9A%E5%91%BC+%E9%A2%A8%E3%81%BE%E3%81%8B%E3%81%9B%E3%82%82%E5%BF%83%E5%9C%B0%E8%89%AF%E3%81%84+%E3%81%95%E3%81%82" alt="Typing SVG" /></a>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=50&size=24&pause=1000&color=8189C7&center=true&width=435&lines=%E5%97%9A%E5%91%BC+%E6%9C%88%E6%98%8E%E3%81%8B%E3%82%8A%E7%85%A7%E3%82%89%E3%81%95%E3%82%8C%E3%81%A6" alt="Typing SVG" /></a>
+    </div>
+  </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on Asia University.
-- 🌱 I’m rhythm gamer.
-- 👯 I’m currently doing Kinect for Unity .
-<table>
+<table rules = none frame = "void">
   
 <tr>
   <td>
-    <table>
+    <table rules = none frame = "void">
       <tbody>
        <td colspan=3><a href="https://hinawifi.me"> <img align= "center" src = "https://cdn.discordapp.com/attachments/887938907843469322/1114853220905390150/88019829_p0.png" width=250> 個人網頁</a></td>
         <tr>
