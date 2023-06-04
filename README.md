@@ -16,7 +16,7 @@
     </tr>
   </tbody>
 </table>
-<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=as35396425&style=flat-square&&label=Profile+Views&color=50A1FF">
+<img align="center" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=as35396425&style=flat-square&&label=Profile+Views&color=50A1FF">
 
 ---
 <br>
