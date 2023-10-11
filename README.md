@@ -5,7 +5,7 @@
 <table  style="border-color: transparent;"><tr ><td >
   <div>
 - 🔭 I’m currently working on Asia University.<br>
-- 🌱 I’m rhythm gamer..<br>
+- 🌱 I’m ...<br>
 - 👯 I’m currently doing Kinect for Unity ..<br>
 </div>
     </td>
