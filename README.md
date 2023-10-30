@@ -6,7 +6,7 @@
   <div>
 - 🔭 I’m currently working on Asia University.<br>
 - 🌱 I’m ...<br>
-- 👯 I’m currently doing Kinect for Unity ..<br>
+- 👯 I’m currently using Kinect for Unity project ..<br>
 </div>
     </td>
 
