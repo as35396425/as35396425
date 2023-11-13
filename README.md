@@ -6,7 +6,7 @@
   <div>
 - 🔭 I'm currently studying at Asia University..<br>
 - 🌱 I’m ...<br>
-- 👯 I'm currently working on a Unity project using Kinect...<br>
+- 👯 I'm currently working on a Unity project using Kinect.<br>
 </div>
     </td>
 
