@@ -4,9 +4,9 @@
 
 <table  style="border-color: transparent;"><tr ><td >
   <div>
-- 🔭 I’m currently working on Asia University.<br>
+- 🔭 I'm currently studying at Asia University..<br>
 - 🌱 I’m ...<br>
-- 👯 I’m currently using Kinect for Unity project ..<br>
+- 👯 I'm currently working on a Unity project using Kinect...<br>
 </div>
     </td>
 
