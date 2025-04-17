@@ -4,9 +4,9 @@
 
 <table  style="border-color: transparent;"><tr ><td >
   <div>
-- 🔭 I'm currently studying at Asia University..<br>
+- 🔭 後端、unity、雲端<br>
 - 🌱 I’m ...<br>
-- 👯 I'm currently working on a Unity project using Kinect.<br>
+- 👯 C# python<br>
 </div>
     </td>
 
