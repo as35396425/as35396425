@@ -30,7 +30,7 @@
   <td>
     <table rules = none frame = "void">
       <tbody>
-       <td colspan=3><a href="https://hinawifi.me"> <img align= "center" src = "https://cdn.discordapp.com/attachments/887938907843469322/1114853220905390150/88019829_p0.png" width=250> 個人網頁</a></td>
+       <td colspan=3><a href="https://as35396425.github.io"> <img align= "center" width=250> 個人網頁</a></td>
         <tr>
           <td><a href="https://www.facebook.com/smailyue"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361100-1fe2b952-4a79-48ec-8646-58f1f4f9738c.gif" alt="icon | Facebook" width="60"/></a></td>
           <td><a href="https://www.instagram.com/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="60"/></a></td>
